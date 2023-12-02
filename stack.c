@@ -44,7 +44,6 @@ void push(){
 }
 
 void pop(){
-    int num;
     if(top==0){
         printf("Stack is Empty");
         return;
