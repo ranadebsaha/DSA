@@ -30,7 +30,7 @@ void main(){
             case 4: printf("Thank You for using RDS Code");
                 break;
             default: printf("Invalid Choice"); 
-                return;   
+                brea;   
         }
     }while(ch!=4);
 }
